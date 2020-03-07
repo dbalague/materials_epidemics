@@ -7,5 +7,6 @@ For those of you teaching Math 224 or 228 (there are many of us) please feel fre
 these materials, as you see fit.  I made up the model out of thin air, without consulting authorities.
 Its goal is merely pedagogical -- a compelling (I hope) application of linear systems of DEs.
 
-Professor Peter J. Thomas 
+Professor Peter J. Thomas
+
 Case Western Reserve University.
