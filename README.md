@@ -1,11 +1,6 @@
 # Curricular Materials for Epidemics
 
-Motivated by current events, and by the need to keep the students in my MATH 224 (intro ordinary equations) 
-course paying attention to linear systems theory, I put together a few slides and a simple matlab script 
-relating the eigenvalues of a 2x2 matrix to the initial growth rate of an epidemic with a latent infective phase.  
-For those of you teaching Math 224 or 228 (there are many of us) please feel free to use (or ignore) 
-these materials, as you see fit.  I made up the model out of thin air, without consulting authorities.
-Its goal is merely pedagogical -- a compelling (I hope) application of linear systems of DEs.
+Motivated by current events, I developed a curricular vignette that relates the spread of a virus with a significant latency period to the eigenvalues of 2x2 matrices.  If you or your colleagues would like to incorporate these materials please do so.  They could be worked into a first course in ODEs, a course in linear algebra, or a course in mathematical modeling.
 
 Professor Peter J. Thomas
 
