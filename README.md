@@ -5,3 +5,11 @@ Motivated by current events, I developed a curricular vignette that relates the 
 Professor Peter J. Thomas
 
 Case Western Reserve University.
+
+# What is this repository?
+
+We created a Binder repository so that you can play with a model for spread of epidemics.
+
+# Who are we?
+
+I am Dr. Daniel Balague Guardia, currently working ar Case Western Reserve University (CWRU). The slideshow was created by Professor Peter J. Thomas who is a Professor at CWRU.
