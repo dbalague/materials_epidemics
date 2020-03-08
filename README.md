@@ -9,13 +9,16 @@ Case Western Reserve University.
 # What is this repository?
 
 We created a Binder repository so that you can play with a model for spread of epidemics.
+With Binder we can make this material accessible to everyone.
+And there is no need to install any software, your browser is enough.
 
 # Run me on Binder!
 
-Click at the badge to run this project on Binder.
+Click at the badge to run this project on [mybinder.org](mybinder.org.).
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dbalague/materials_epidemics/master)
 
 The first time you run this project, it will take a while to execute. Please be patient!
+If the presentation does not start automatically, please click on the file ```index.ipynb```
 
 # Who are we?
 
