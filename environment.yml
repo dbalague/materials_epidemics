@@ -1,0 +1,4 @@
+name: R0-epidemtics
+dependencies:
+- octave_kernel
+- rise
